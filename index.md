@@ -37,5 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<p>Hello 大家好</p> <p>我是仙人，这是我的工作網站。 </p> <p>很高興你来到這里, 你可以在以下的網站找到我</p> <ul> <li> <a href="https://www.zhihu.com/people/AJLoveChina">知乎</a> </li> <li> <a href="http://hejie.nigeerhuo.com">我的部落格(已经不更细了,现在在知乎写文章)</a> </li> </ul>****
+<p>Hello 大家好</p> <p>我是仙人，这是我的工作網站。 </p> <p>很高興你来到這里, 你可以在以下的網站找到我</p> <ul> <li> <a href="https://">知乎</a> </li> <li> <a href="http://">我的部落格(已经不更细了,现在在知乎写文章)</a> </li> </ul>****
 
