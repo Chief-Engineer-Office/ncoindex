@@ -41,6 +41,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+<div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
+    <h2 class="w3-wide w3-center">CONTACT</h2>
+    <p class="w3-opacity w3-center"><i>Fan? Drop a note!</i></p>
+    <div class="w3-row w3-padding-32">
+
 ### 主要工作區
 =======
 <p>Hello 大家好</p> <p>我是仙人，这是我的工作網站。 </p> <p>很高興你来到這里, 你可以在以下的網站找到我</p>
