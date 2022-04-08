@@ -51,7 +51,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
       <h2 class="w3-wide w3-center">TOUR DATES</h2>
       <p class="w3-opacity w3-center"><i>Remember to book your tickets!</i></p><br>
 
-      
+      <ul class="w3-ul w3-border w3-white w3-text-grey">
+        <li class="w3-padding">September <span class="w3-tag w3-red w3-margin-left">Sold out</span></li>
+        <li class="w3-padding">October <span class="w3-tag w3-red w3-margin-left">Sold out</span></li>
+        <li class="w3-padding">November <span class="w3-badge w3-right w3-margin-right">3</span></li>
+      </ul>
+
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
           <img src="/w3images/newyork.jpg" alt="New York" style="width:100%" class="w3-hover-opacity">
