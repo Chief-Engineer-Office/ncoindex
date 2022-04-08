@@ -1,3 +1,16 @@
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+</head>
+
 ## 五 工 資 訊 教 室
 Five Engineer Office
 <iframe src="https://calendar.google.com/calendar/embed?title=%E6%96%B0%E5%B7%A5%E8%99%95%E8%A1%8C%E4%BA%8B%E6%9B%86&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=ncotaipei.public%40gmail.com&amp;color=%23125A12&amp;src=9sbivfc8ac5sec9kao2ccnspu0%40group.calendar.google.com&amp;color=%2342104A&amp;src=ncotaipei.sec%40gmail.com&amp;color=%23B1440E&amp;src=1p0uqnhbvqrc0foihoep4h22hk%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Asia%2FTaipei" style="border-width:0" width="1024" height="768" frameborder="0" scrolling="no"></iframe>
